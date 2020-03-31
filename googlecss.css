@@ -1,0 +1,63 @@
+
+/*PAS FINI*/
+
+.container
+{
+font-family:arial;
+font-size: 13px;
+}
+.cont5
+{
+font-size:11px;
+}
+
+.nav1
+{
+	display : flex;
+	flex-direction: row-reverse;
+	color:black;
+}
+.nav11:hover
+{
+color: #505050;
+}
+.nav11:hover
+{
+/*mettre le logo noir quand la souris passe dessus*/;
+}
+.middle
+{
+display:flex;
+justify-content:center;
+align-items:center;
+}
+.cont3
+{
+border: 1px solid #B7C5C5;
+border-radius: 10px;
+box-shadow: 3px 3px 3px 3px #B7C5C5;
+/*Ombre non appliquée aux côté gauche et supérieurs...*/
+display:flex;
+justify-content:center;
+align-items:center;
+}
+p:
+{
+
+}
+
+
+.footer2:hover
+{
+text-decoration: underline;
+color: #505050;
+}
+.cont4:hover
+{
+text-decoration: underline;
+}
+.nav2:hover
+{
+text-decoration: underline;
+color: #505050;
+}
